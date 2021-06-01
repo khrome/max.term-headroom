@@ -1,0 +1,15 @@
+{
+    "name" : "max.terminal-headroom",
+    "personality" :{
+        "engine" : "eliza",
+        "voice" : "en-us+fred",
+        "options" : {
+
+        },
+        "config":{
+            "stipple" : true,
+            "blended": true,
+            "alphabet" : "greyscale"
+        }
+    }
+}
