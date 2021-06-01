@@ -1,5 +1,6 @@
 {
     "name" : "max.terminal-headroom",
+    "version" : "0.0.1",
     "personality" :{
         "engine" : "eliza",
         "voice" : "en-us+fred",
